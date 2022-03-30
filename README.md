@@ -1,0 +1,2 @@
+# diagrama
+consigue ventas
